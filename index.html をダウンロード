@@ -3,6 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <title>ギターショップ リンク集</title>
+  <style>
+    body { font-family: sans-serif; padding: 40px; background-color: #f4f4f4; }
+    h1 { color: #222; }
+    ul { list-style: none; padding: 0; }
+    li { margin: 10px 0; }
+    a { font-weight: bold; color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
 </head>
 <body>
   <h1>ギターショップ リンク集</h1>
