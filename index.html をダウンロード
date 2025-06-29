@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>ギターショップ リンク集</title>
+</head>
+<body>
+  <h1>ギターショップ リンク集</h1>
+  <ul>
+    <li><a href="https://www.ishibashi.co.jp/" target="_blank">石橋楽器（イシバシ）</a></li>
+    <li><a href="https://www.shimamura.co.jp/" target="_blank">島村楽器</a></li>
+    <li><a href="https://www.kurosawagakki.com/" target="_blank">クロサワ楽器</a></li>
+    <li><a href="https://www.guitarshop-tantan.com/" target="_blank">ギターショップ タンタン</a></li>
+    <li><a href="https://www.digimart.net/" target="_blank">デジマート</a></li>
+  </ul>
+</body>
+</html>
